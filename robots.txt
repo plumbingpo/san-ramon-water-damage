@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationsanramon.com/sitemap.xml
